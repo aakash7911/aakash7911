@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aakash7911/aakash7911/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://i.ibb.co/G4M8FZp2/IMAGE-2026-06-09-22-14-14.jpg" alt="Snake animation" />
 
 ###
 
