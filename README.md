@@ -74,6 +74,7 @@
 
 <img src="https://i.ibb.co/G4M8FZp2/IMAGE-2026-06-09-22-14-14.jpg" alt="Snake animation" />
 
+<img src="https://i.ibb.co/G4M8FZp2/IMAGE-2026-06-09-22-14-14.jpg" alt="animation">
 ###
 
 <div align="center">
